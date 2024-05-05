@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://active-record.wayof.dev
+
+# Sitemaps
+Sitemap: https://active-record.wayof.dev/sitemap.xml
